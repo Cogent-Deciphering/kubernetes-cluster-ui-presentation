@@ -1,0 +1,20 @@
+{
+  "name": "argocd-style-k8s-graph",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "dagre": "^0.8.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "reactflow": "^11.10.4"
+  },
+  "devDependencies": {
+    "vite": "^5.4.2"
+  }
+}
